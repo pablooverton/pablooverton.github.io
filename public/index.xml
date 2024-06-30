@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pablo Overton</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.pablooverton.com/</link>
     <description>Recent content on Pablo Overton</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 11:48:07 -0400</lastBuildDate>
+    <atom:link href="https://www.pablooverton.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction 🔗This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <title>Data as a Product: Transforming Teams and Avoiding Common Pitfalls</title>
+      <link>https://www.pablooverton.com/posts/data-as-product/</link>
+      <pubDate>Sun, 30 Jun 2024 11:48:07 -0400</pubDate>
+      <guid>https://www.pablooverton.com/posts/data-as-product/</guid>
+      <description>Introduction 🔗In today&amp;rsquo;s fast-paced world of data engineering, one paradigm shift can revolutionize how teams function and deliver value: treating data as a product. This mindset not only enhances team operations but also ensures the data produced is reliable, usable, and valuable across the organization.&#xA;The Data as a Product Mindset 🔗Picture yourself as a baker in a bustling bakery. Each loaf of bread you create isn&amp;rsquo;t just a one-off experiment; it&amp;rsquo;s a product designed to meet customer needs, ensure satisfaction, and drive sales.</description>
     </item>
   </channel>
 </rss>
