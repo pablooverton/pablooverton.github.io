@@ -1,5 +1,5 @@
 +++
-title = 'Anathem Syntactic'
+title = 'Exploring Syntactic Faculties and Philosophical Depth in Anathem by Neal Stephenson'
 date = 2024-07-03T15:59:28-04:00
 draft = false
 +++
