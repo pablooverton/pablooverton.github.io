@@ -1,5 +1,5 @@
 +++
-title = 'The Data Architect's Garden: Navigating the Modern Tooling Ecosystem through the Lens of Classic Allegory'
+title = "The Data Architect's Garden: Navigating the Modern Tooling Ecosystem through the Lens of Classic Allegory"
 date = 2024-10-09T17:04:44-04:00
 draft = true
 +++
