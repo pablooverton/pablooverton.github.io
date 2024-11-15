@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pablo Overton</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://www.pablooverton.com/posts/</link>
     <description>Recent content in Posts on Pablo Overton</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Oct 2024 17:04:44 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.pablooverton.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Data Architect&#39;s Garden: Navigating the Modern Tooling Ecosystem through the Lens of Classic Allegory</title>
-      <link>http://localhost:1313/posts/classic-ecosystem/</link>
+      <link>https://www.pablooverton.com/posts/classic-ecosystem/</link>
       <pubDate>Wed, 09 Oct 2024 17:04:44 -0400</pubDate>
-      <guid>http://localhost:1313/posts/classic-ecosystem/</guid>
+      <guid>https://www.pablooverton.com/posts/classic-ecosystem/</guid>
       <description>&lt;p&gt;The world of data today feels a bit like wandering through a bustling marketplace in ancient times—a cacophony of voices, new technologies cropping up in every corner, and endless options for every need. Much like how traders would haggle over spices or silk, today’s companies deal in data, moving it across systems, processing it for insights, and storing it for future use. But, just as you wouldn’t use a cart built for hauling grain to transport fine pottery, each tool in the data ecosystem has its purpose. Let’s take a walk through the modern marketplace of data tools, connecting it to stories that have stood the test of time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring Syntactic Faculties and Philosophical Depth in Anathem by Neal Stephenson</title>
-      <link>http://localhost:1313/posts/anathem-syntactic/</link>
+      <link>https://www.pablooverton.com/posts/anathem-syntactic/</link>
       <pubDate>Wed, 03 Jul 2024 15:59:28 -0400</pubDate>
-      <guid>http://localhost:1313/posts/anathem-syntactic/</guid>
+      <guid>https://www.pablooverton.com/posts/anathem-syntactic/</guid>
       <description>&lt;h1 id=&#34;exploring-syntactic-faculties-and-philosophical-depth-in-neal-stephensons-anathem&#34;&gt;Exploring Syntactic Faculties and Philosophical Depth in Neal Stephenson&amp;rsquo;s Anathem &lt;a href=&#34;#exploring-syntactic-faculties-and-philosophical-depth-in-neal-stephensons-anathem&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;As a software professional with an interest in both technology and literature, I recently found myself rereading the speculative fiction novel &lt;em&gt;Anathem&lt;/em&gt; by Neal Stephenson. This book, with its richly detailed world-building and thought-provoking themes, offers a unique blend of speculative fiction and philosophical inquiry that resonates deeply with anyone interested in the intersection of technology, language, and human cognition.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-concent-of-saunt-edhar-a-haven-for-intellectual-pursuit&#34;&gt;The Concent of Saunt Edhar: A Haven for Intellectual Pursuit &lt;a href=&#34;#the-concent-of-saunt-edhar-a-haven-for-intellectual-pursuit&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;At the heart of &lt;em&gt;Anathem&lt;/em&gt; lies the Concent of Saunt Edhar, a monastic-like order dedicated to intellectual and philosophical pursuits. This order, known as the avout, isolates itself from the secular world to engage in deep contemplation and rigorous study.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data as a Product: Transforming Teams and Avoiding Common Pitfalls</title>
-      <link>http://localhost:1313/posts/data-as-product/</link>
+      <link>https://www.pablooverton.com/posts/data-as-product/</link>
       <pubDate>Sun, 30 Jun 2024 11:48:07 -0400</pubDate>
-      <guid>http://localhost:1313/posts/data-as-product/</guid>
+      <guid>https://www.pablooverton.com/posts/data-as-product/</guid>
       <description>&lt;h4 id=&#34;introduction&#34;&gt;Introduction &lt;a href=&#34;#introduction&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;In today&amp;rsquo;s fast-paced world of data engineering, one paradigm shift can revolutionize how teams function and deliver value: treating data as a product. This mindset not only enhances team operations but also ensures the data produced is reliable, usable, and valuable across the organization.&lt;/p&gt;&#xA;&lt;h4 id=&#34;the-data-as-a-product-mindset&#34;&gt;The Data as a Product Mindset &lt;a href=&#34;#the-data-as-a-product-mindset&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Picture yourself as a baker in a bustling bakery. Each loaf of bread you create isn&amp;rsquo;t just a one-off experiment; it&amp;rsquo;s a product designed to meet customer needs, ensure satisfaction, and drive sales. Similarly, data should be viewed not as a byproduct of operations but as a meticulously crafted product, with users in mind. This approach fundamentally changes how data teams prioritize tasks, approach their work, and measure success.&lt;/p&gt;</description>
     </item>
   </channel>

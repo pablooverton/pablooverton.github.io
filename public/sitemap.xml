@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.pablooverton.com/</loc>
+    <lastmod>2024-11-20T09:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.pablooverton.com/posts/</loc>
+    <lastmod>2024-11-20T09:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.pablooverton.com/posts/classic-ecosystem/</loc>
     <lastmod>2024-10-09T17:04:44-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-09T17:04:44-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/classic-ecosystem/</loc>
-    <lastmod>2024-10-09T17:04:44-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/anathem-syntactic/</loc>
+    <loc>https://www.pablooverton.com/posts/anathem-syntactic/</loc>
     <lastmod>2024-07-03T15:59:28-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.pablooverton.com/about/</loc>
     <lastmod>2024-06-30T11:56:51-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/data-as-product/</loc>
+    <loc>https://www.pablooverton.com/posts/data-as-product/</loc>
     <lastmod>2024-06-30T11:48:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.pablooverton.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.pablooverton.com/tags/</loc>
   </url>
 </urlset>
