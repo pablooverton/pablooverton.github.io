@@ -8,9 +8,7 @@ The world of data today feels a bit like wandering through a bustling marketplac
 
 ### The Cloud: The Roman Forum of Data
 
-<div style="width: 680px; max-width: 100%; margin: auto;">
-    <img src="/images/roman-forum-cloud.webp" alt="Roman Cloud" style="width: 100%; max-width: 680px;">
-</div>
+{{< figure src="/images/roman-forum-cloud.webp" title="Roman Cloud" >}}
 
 Imagine you’re standing in the center of the Roman Forum, a grand meeting place where ideas, goods, and power exchanged hands. Now, fast forward to the present, and think of AWS, Azure, or Google Cloud as these towering empires, each vying for dominance in the cloud space.
 
