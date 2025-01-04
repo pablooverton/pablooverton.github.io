@@ -8,6 +8,9 @@ The world of data today feels a bit like wandering through a bustling marketplac
 
 ### The Cloud: The Roman Forum of Data
 
+
+{{< figure src="/images/roman-forum-cloud.webp" title="Roman Cloud" >}}
+
 Imagine you’re standing in the center of the Roman Forum, a grand meeting place where ideas, goods, and power exchanged hands. Now, fast forward to the present, and think of AWS, Azure, or Google Cloud as these towering empires, each vying for dominance in the cloud space.
 
 These platforms provide everything—compute power, storage, data processing tools, and more. AWS, with its sprawling service catalog, feels a bit like Rome at its height: powerful, expansive, and capable of handling just about anything. But with great power comes complexity; managing costs and services can quickly get out of hand if you’re not careful, much like the Roman Empire’s vast territories eventually became unwieldy.
