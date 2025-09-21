@@ -1,12 +1,14 @@
 +++
-title = 'Data as a Product: Operating Model, Ownership, and ROI'
+title = 'Data as a Product: Driving Ownership and ROI in Enterprise Platforms'
 date = 2024-06-30T11:48:07-04:00
 draft = false
-tags = ['data-product','data-platform','governance','lead-data-engineer','ROI','ownership']
+tags = ['data-product','data-platform','governance','lead-data-engineer','ROI','ownership','enterprise']
 categories = ['Data Engineering']
-description = 'Lead data engineer playbook: treating data as a product to improve quality, adoption, and ROI.'
-aliases = ['/data-as-a-product-transforming-teams-and-avoiding-common-pitfalls/'] 
+description = 'Lead data engineer playbook: adopting a data-as-product model to boost adoption, quality, and ROI across enterprise data platforms.'
+aliases = ['/data-as-a-product-transforming-teams-and-avoiding-common-pitfalls/']
+image = '/images/data-as-a-product-thumbnail.png'
 +++
+
 #### Introduction
 
 In today's fast-paced world of data engineering, one paradigm shift can revolutionize how teams function and deliver value: treating data as a product. This mindset not only enhances team operations but also ensures the data produced is reliable, usable, and valuable across the organization.
