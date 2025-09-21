@@ -1,8 +1,11 @@
 +++
-title = 'Beyond Basic ETL: Advanced Techniques for Data Pipeline Optimization'
+title = 'Scaling Data Pipelines: Cost, Reliability, and Performance'
 date = 2024-11-20T09:00:00-05:00
 draft = false
-tags = ['data-engineering', 'optimization', 'etl', 'performance']
+tags = ['data-engineering','pipeline-optimization','spark','databricks','airflow','cost-reduction','lead-data-engineer']
+categories = ['Data Engineering']
+description = 'How advanced ETL optimization cut runtime 4x and cost 40% on multi-terabyte pipelines. Practical techniques from a lead data engineer.'
+aliases = ['/beyond-basic-etl-advanced-techniques-for-data-pipeline-optimization/']
 +++
 
 # Beyond Basic ETL: Advanced Techniques for Data Pipeline Optimization
