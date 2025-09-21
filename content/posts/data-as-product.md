@@ -1,7 +1,11 @@
 +++
-title = 'Data as a Product: Transforming Teams and Avoiding Common Pitfalls'
+title = 'Data as a Product: Operating Model, Ownership, and ROI'
 date = 2024-06-30T11:48:07-04:00
 draft = false
+tags = ['data-product','data-platform','governance','lead-data-engineer','ROI','ownership']
+categories = ['Data Engineering']
+description = 'Lead data engineer playbook: treating data as a product to improve quality, adoption, and ROI.'
+aliases = ['/data-as-a-product-transforming-teams-and-avoiding-common-pitfalls/'] 
 +++
 #### Introduction
 
