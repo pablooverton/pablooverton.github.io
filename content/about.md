@@ -4,6 +4,12 @@ date = 2024-06-30T11:56:51-04:00
 draft = false
 +++
 
-As a Lead Data Engineer, I've spearheaded large-scale projects, efficiently transforming complex business requirements into resilient data architectures and pipelines. My role extends beyond technical expertise; I'm a mentor, coach, and a staunch advocate for software engineering best practices within my team.
+I'm Pablo Overton — AI Engineer and Senior Data Engineer at Analog Devices, where I architect cloud data platforms (Snowflake, Databricks, dbt, AWS) serving 1,000+ users across digital marketing, sales, and 20+ business domains.
 
-Outside the office, I'm deeply engaged with open-source software and constantly exploring the forefront of machine learning and AI technologies. I actively participate in hackathons and enjoy working on IoT projects, blending my passion for both hardware and software. When I'm not engrossed in code, you'll likely find me delving into sci-fi literature, experimenting with home automation gadgets, or attending local tech meetups. Join me as I share insights, tips, and my passion for data engineering on this exciting journey.
+My background is unusual: Industrial Engineering in Madrid, Systems Engineering in Tokyo, lean manufacturing on a plant floor, semiconductor supply chain at ADI, and now GTM data platforms — customer signals, lead enrichment, attribution, GDPR-compliant governance. The common thread is building systems that turn operational complexity into better decisions.
+
+I'm now focused on applied AI — using LLMs and agentic workflows to solve real problems where domain judgment matters more than model architecture. I build with AI tools, not just about them.
+
+**Currently building:** [icp-signal-monitor](https://github.com/pablooverton/icp-signal-monitor) — an AI-powered ICP fit scorer that uses Claude to evaluate public company signals against a configurable ideal customer profile.
+
+Find me on [GitHub](https://github.com/pablooverton) and [LinkedIn](https://linkedin.com/in/pablooverton).
