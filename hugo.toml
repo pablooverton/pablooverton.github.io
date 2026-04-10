@@ -2,3 +2,7 @@ baseURL = 'https://www.pablooverton.com/'
 languageCode = 'en-us'
 title = 'Pablo Overton'
 theme = 'mini'
+
+[[params.Links]]
+  name = 'Lump Slam'
+  path = 'https://pablooverton.github.io/lumpslam'
