@@ -6,3 +6,7 @@ theme = 'mini'
 [[params.Links]]
   name = 'Lump Slam'
   path = 'https://pablooverton.github.io/lumpslam'
+
+[[params.Links]]
+  name = 'firewhere'
+  path = 'https://pablooverton.github.io/firewhere'
