@@ -10,3 +10,7 @@ theme = 'mini'
 [[params.Links]]
   name = 'firewhere'
   path = 'https://pablooverton.github.io/firewhere'
+
+[[params.Links]]
+  name = 'typecast'
+  path = 'https://pablooverton.github.io/typecast'
