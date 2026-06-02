@@ -6,12 +6,10 @@ tags = ["agentic-ai", "spec-driven-development", "spec-kit", "github", "ai-workf
 summary = "Reflections on GitHub’s new SpecKit toolkit and why spec-driven workflows are essential for scaling agentic AI systems."
 +++
 
-# Agentic AI and Spec-Driven Development: Early Lessons from GitHub SpecKit  
-
-GitHub recently released **SpecKit**, an open-source toolkit for spec-driven development (SDD). It enforces a gated workflow—**Specify → Plan → Tasks → Implement**—with a “constitution” file to encode project principles and constraints. AI agents like Copilot, Claude, Gemini, and Cursor can consume these specs directly.  
+GitHub recently released **SpecKit**, an open-source toolkit for spec-driven development (SDD). It enforces a gated workflow, **Specify → Plan → Tasks → Implement**, with a “constitution” file to encode project principles and constraints. AI agents like Copilot, Claude, Gemini, and Cursor can consume these specs directly.  
 
 ## Why Specs Matter  
-Ambiguity creates rework. Specs shift the burden upfront: you capture intent, rules, and outcomes before anyone—human or AI—starts building. With SpecKit, the spec isn’t shelfware; it is a versioned artifact that drives planning, tasks, and implementation.  
+Ambiguity creates rework. Specs shift the burden upfront: you capture intent, rules, and outcomes before anyone, human or AI, starts building. With SpecKit, the spec isn’t shelfware. It stays a living, versioned artifact that drives planning, tasks, and implementation.  
 
 ## Strengths I See  
 - **Shared governance**: a constitution defines architectural and UX guardrails.  
