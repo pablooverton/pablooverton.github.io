@@ -4,7 +4,7 @@ date = 2025-03-03T23:37:24-05:00
 draft = false
 +++
 
-Scientific innovation often mirrors patterns found in nature. Neural networks emulate the brain, evolutionary algorithms mimic natural selection, and biomimicry inspires design solutions. Yet this interplay between nature, human creativity, and moral responsibility raises profound questions. Are humans merely imitating creation, or do we risk distorting it? Are we morally bound by nature’s patterns, or can we transcend them? This post explores these questions from theological, philosophical, and ethical perspectives.
+Scientific innovation often mirrors patterns found in nature. Neural networks emulate the brain, evolutionary algorithms mimic natural selection, and biomimicry inspires design solutions. Yet the relationship between nature, human creativity, and moral responsibility raises hard questions. Are humans merely imitating creation, or do we risk distorting it? Are we bound by nature’s patterns, or can we transcend them? This post works through those questions from a few angles: philosophical, ethical, and theological.
 
 ## **Mirroring Life: Science Inspired by Nature**
 
@@ -45,16 +45,16 @@ The question of whether humans can escape nature touches on theology and philoso
    - Environmental philosophers like Arne Næss argue that humans are bound to nature and must act as its stewards.
    - Transhumanists propose that technology enables humanity to transcend biological limits, though critics argue this is merely an extension of natural principles.
 
-From a Catholic perspective, St. Thomas Aquinas harmonized the natural and supernatural, teaching that while humans are part of nature, they are elevated by grace to participate in divine life. This suggests humanity is both bound by and called to transcend nature.
+A theological tradition pushes further still. In the Thomist reading, Aquinas held the natural and the supernatural together: humans are part of nature but oriented beyond it, both bound by it and called past it.
 
 ## **The Morality of Mimicry and Distortion**
 
 How does morality intersect with scientific innovation? Are certain discoveries or applications inherently moral or immoral based on their alignment with natural patterns?
 
-### **Catholic Thought on Imitating Creation**
+### **A Thomist Reading: Natural Law**
 
 - **Natural Law (Aquinas):**
-  Aquinas held that human actions and creations should align with natural law, reflecting God’s eternal law. Innovations that restore or respect nature (e.g., medicine) are good; those that distort it (e.g., genetic enhancement for vanity) may be morally problematic.
+  Aquinas held that human actions and creations should be consistent with natural law, which he read as a reflection of a divine law. Innovations that restore or respect nature (e.g., medicine) are good; those that distort it (e.g., genetic enhancement for vanity) may be morally problematic.
 
 - **Modern Catholic Reflections:**
   - Pope John Paul II celebrated human reason and creativity as reflections of God’s image but warned against dehumanizing technologies.
@@ -62,7 +62,7 @@ How does morality intersect with scientific innovation? Are certain discoveries 
 
 ### **Are Abstract Mathematics and Quantum Mechanics Immoral?**
 
-Abstract mathematics and quantum mechanics delve into realities far removed from everyday experience. While they might seem disconnected from creation, many theologians view them as uncovering deeper layers of God’s order:
+Abstract mathematics and quantum mechanics reach into realities far removed from everyday experience. While they might seem disconnected from creation, many theologians view them as uncovering deeper layers of God’s order:
 
 - **St. Augustine:** Mathematical truths reflect God’s eternal wisdom.
 - **St. Thomas Aquinas:** Abstract thought, including mathematics, is a gift from God, morally neutral and good when used for righteous purposes.
@@ -81,4 +81,4 @@ Here are contrasting views on humanity’s creative power relative to nature:
   - C.S. Lewis, in *The Abolition of Man*, warned that rejecting nature’s patterns leads to moral and existential disarray.
 
 - **Escaping Nature:**
-  Catholic thought asserts that humans cannot escape nature because it reflects divine order. Transcending nature spiritually through grace enriches humanity without rejecting creation’s patterns.
+  In the Thomist view, humans cannot fully escape nature because it reflects a deeper order; what looks like transcendence is better understood as working with creation’s patterns than against them.

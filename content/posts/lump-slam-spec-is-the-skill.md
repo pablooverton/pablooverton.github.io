@@ -14,7 +14,7 @@ I built a retirement calculator using AI for most of the implementation and ran 
 
 ## What I built
 
-[Lump Slam](https://www.pablooverton.com/lumpslam/) models retirement as four sequential phases (COBRA, ACA, Medicare, RMD) and handles withdrawal sequencing, Roth conversion timing, and Social Security optimization. I built it because commercial tools either cost money, required an advisor, or gave me suspiciously reassuring answers. I have four kids and one more on the way. I wanted something I could actually verify.
+[Lump Slam](https://www.pablooverton.com/lumpslam/) models retirement as four sequential phases (COBRA, ACA, Medicare, RMD) and handles withdrawal sequencing, Roth conversion timing, and Social Security optimization. I built it because commercial tools either cost money, required an advisor, or gave me suspiciously reassuring answers. I wanted something I could actually verify, line by line.
 
 ---
 
