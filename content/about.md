@@ -10,6 +10,6 @@ My background is unusual: Industrial Engineering in Madrid, Systems Engineering 
 
 I'm now focused on applied AI, using LLMs and agentic workflows to solve real problems where domain judgment matters more than model architecture. I build with AI tools, not just about them.
 
-**Currently building:** [typecast](https://github.com/pablooverton/typecast), which turns your personality type into a drop-in operating manual for your AI. Also live: [lumpslam](https://www.pablooverton.com/lumpslam/), a browser-based retirement calculator, and [firewhere](https://www.pablooverton.com/firewhere/), an international FIRE breakeven calculator.
+**Currently building:** [typecast](https://www.pablooverton.com/typecast/), which turns your personality type into a drop-in operating manual for your AI. Also live: [lumpslam](https://www.pablooverton.com/lumpslam/), a browser-based retirement calculator, and [firewhere](https://www.pablooverton.com/firewhere/), an international FIRE breakeven calculator.
 
 Find me on [GitHub](https://github.com/pablooverton) and [LinkedIn](https://linkedin.com/in/pablooverton).
